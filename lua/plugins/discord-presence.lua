@@ -1,7 +1,7 @@
 return {
   "andweeb/presence.nvim",
   opts = {
-    neovim_image_text = "btw I use vim",
+    neovim_image_text = "I use neovim btw",
     main_image = "file",
   },
 }
