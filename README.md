@@ -15,7 +15,7 @@
 5. `cd ~/.config/nvim/`
 6. run `nvim`
 
-## Important nvim commands
+## Important commands
 
-- `:ASToggle` turn of autosave
+- `:ASToggle` turn off autosave
 - `:Emmet` turn on emmet
