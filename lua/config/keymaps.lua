@@ -22,8 +22,9 @@ keymap.set("n", "te", ":tabedit", opts)
 keymap.set("n", "<tab>", ":tabnext<Return>", opts)
 keymap.set("n", "<s-tab>", ":tabprev<Return>", opts)
 
--- TODO: IMPLEMENT PRESSING TAB KEY IN INSERT MODE WHEN AUTOMCOMPLETION COMES UP TO COMPLETE AND NOT ENTE
--- TODO: USABLE COPYING THE DELETED TEXT (dd, dw, etc.)
+-- TODO: IMPLEMENT PRESSING TAB KEY IN INSERT MODE WHEN AUTOMCOMPLETION COMES UP TO COMPLETE AND NOT ENTER
+
+-- TODO: make git integration (shortcuts etc.) work
 
 -- Move window
 keymap.set("n", "sh", "<C-w>h")
